@@ -19,6 +19,15 @@ p{
     text-decoration: overline;
 }
 
+.moveme {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
 .TurnUp{
     text-transform: capitalize;
 }
@@ -27,8 +36,10 @@ p{font-size: 14px;}
 h3{font-size: 14px;}
 
 div{
-    background-color:yellow;
+    width: 100% 
 }
+
+div{background-color: rgb(220, 226, 250);}
 
 
 
