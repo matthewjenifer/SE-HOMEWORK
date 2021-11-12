@@ -1,5 +1,7 @@
 body {
     background-color: black;
+    
+
 }
 
 /*--.name-hover:hover {
@@ -94,11 +96,21 @@ li{
 .moveme {
     width: 100px;
     height: auto;
-    background-color: black;
     position: fixed;
     bottom: 0px;
     right: 0px;
 }
+
+.moveme2 {
+    width: 400px;
+    height: auto;
+    position: absolute;
+    bottom: 10px;
+    left: 185px;
+   
+}
+
+
 
 .hover:hover {
     background-color: blueviolet;
@@ -118,6 +130,14 @@ li{
     text-align: center;
   }
 
+  .center2 {
+    margin: auto;
+    width: 29%;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+  }
+
 
 
 .navigation {
@@ -128,11 +148,10 @@ li{
 }
 
 
-
 .table {
    background-color: rgb(232, 247, 96);
    margin: auto;
-    width: 700;
+    width: 700px;
     text-align: center;
 }
 
@@ -159,4 +178,11 @@ input[type=text]:focus {
     color: black;
     width: 100%;
     transition: 2s;
+}
+
+
+span{
+    color:rgb(0, 195, 255);
+    font-size: 70pt;
+    font-family: arial;
 }
