@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    
+} 
 
 span{
     color:rgb(0, 195, 255);
@@ -27,7 +27,7 @@ span{
     font-size: 20pt;
     
   }
-}
+
 
 /*--.name-hover:hover {
     background-color: yellow
@@ -109,7 +109,7 @@ li{
 
 
 .album-hover:hover {
-    background-color: green; rgb(71, 160, 138)
+    background-color: green;
     max-width:auto;
 
 }
