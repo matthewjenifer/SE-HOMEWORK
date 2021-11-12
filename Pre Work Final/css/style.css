@@ -29,6 +29,10 @@ p{
     right: 0px;
 }
 
+.hover:hover {
+    background-color: blueviolet;
+}
+
 .TurnUp{
     text-transform: capitalize;
 }
