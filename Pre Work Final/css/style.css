@@ -113,7 +113,7 @@ li{
     height: auto;
     position: absolute;
     bottom: 7px;
-    left: 445px;
+    left: -045px;
    
 }
 
@@ -161,6 +161,28 @@ li{
     right: 550px;
    
 }
+
+
+.stillmovin {
+    width: auto;
+    height: 950px;
+    position: absolute;
+    bottom: -750px;
+    right: 950px;
+   
+}
+
+
+.stillmovin2 {
+    width: auto;
+    height: 950px;
+    position: absolute;
+    bottom: -200px;
+    right: -850px;
+   
+}
+
+
 
 .hover:hover {
     background-color: blueviolet;
