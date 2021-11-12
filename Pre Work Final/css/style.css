@@ -31,7 +31,7 @@ h3{
 }
 
 h4{
-    color: rgb(253, 63, 63);
+    color: green;
     font-size: 14px;
 
 }
@@ -112,8 +112,8 @@ li{
     width: 400px;
     height: auto;
     position: absolute;
-    bottom: 10px;
-    left: 185px;
+    bottom: 7px;
+    left: 445px;
    
 }
 
@@ -236,4 +236,18 @@ span{
     font-size: 70pt;
     font-family: arial;
 }
+
+
+.blue_text {
+    color:rgb(0, 195, 255);
+    font-size: 10pt;
+    font-family: arial;
+  }
+
+
+  .blue_text2 {
+    color:rgb(0, 195, 255);
+    font-size: 20pt;
+    font-family: arial;
+  }
 
