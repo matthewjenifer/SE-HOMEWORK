@@ -2,22 +2,37 @@ body {
     background-color: black;
     
 
+span{
+    color:rgb(0, 195, 255);
+    font-size: 70pt;
+    font-family: arial;
+}
+
+
+.blue_text {
+    color:rgb(0, 195, 255);
+    font-size: 10pt;
+    font-family: arial;
+  }
+
+
+  .blue_text2 {
+    color:rgb(0, 195, 255);
+    font-size: 20pt;
+    font-family: arial;
+  }
+
+  .red_text {
+    color:red;
+    font-size: 20pt;
+    
+  }
 }
 
 /*--.name-hover:hover {
     background-color: yellow
 }--*/
 
-#GetFunky {
-    width: 600px;
-    margin: 0 auto;
-}
-
-.album-hover:hover {
-    background-color: green; rgb(71, 160, 138)
-    max-width:auto;
-
-}
 
 h2{
     color: white;
@@ -69,7 +84,10 @@ li{
 }
 
 
-
+.p3 {
+    font-family: "Papyrus", monospace;
+    font-size: 58px;
+  }
 
 
 
@@ -77,17 +95,26 @@ li{
     color: rgb(173, 35, 132);
 }
 
+#GetFunky {
+    width: 600px;
+    margin: 0 auto;
+}
 
-
-.p3 {
-    font-family: "Papyrus", monospace;
-    font-size: 58px;
-  }
 
 
 .switchup{
     text-decoration-color: tomato;
 }
+
+
+
+.album-hover:hover {
+    background-color: green; rgb(71, 160, 138)
+    max-width:auto;
+
+}
+
+
 
 
 .recordList{
@@ -183,14 +210,16 @@ li{
 }
 
 
-
 .hover:hover {
     background-color: blueviolet;
 }
 
+
+
 .TurnUp{
     text-transform: capitalize;
 }
+
 
 
 
@@ -202,7 +231,7 @@ li{
     text-align: center;
   }
 
-  .center2 {
+.center2 {
     margin: auto;
     width: 29%;
     border: 3px solid rgb(0, 0, 0);
@@ -211,13 +240,6 @@ li{
   }
 
 
-
-.navigation {
-    font-size: 24px;
-    margin: auto;
-    width: auto;
-    text-align: center;
-}
 
 
 .table {
@@ -253,28 +275,9 @@ input[type=text]:focus {
 }
 
 
-span{
-    color:rgb(0, 195, 255);
-    font-size: 70pt;
-    font-family: arial;
+.navigation {
+    font-size: 24px;
+    margin: auto;
+    width: auto;
+    text-align: center;
 }
-
-
-.blue_text {
-    color:rgb(0, 195, 255);
-    font-size: 10pt;
-    font-family: arial;
-  }
-
-
-  .blue_text2 {
-    color:rgb(0, 195, 255);
-    font-size: 20pt;
-    font-family: arial;
-  }
-
-  .red_text {
-    color:red;
-    font-size: 20pt;
-    
-  }
