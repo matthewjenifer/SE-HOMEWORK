@@ -183,9 +183,9 @@ li{
 .movemetoo {
     width: 150px;
     height: auto;
-    position: absolute;
-    bottom:-300%;
-    right: 550px;
+    position: fixed;
+    bottom:0%;
+    right: 320px;
    
 }
 
