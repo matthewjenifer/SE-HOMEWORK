@@ -27,7 +27,7 @@ p{
     width: 100px;
     height: 100px;
     background-color: black;
-    position: absolute;
+    position: fixed;
     top: 0px;
     right: 0px;
 }
