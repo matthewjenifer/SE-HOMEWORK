@@ -1,34 +1,73 @@
-name-hover:hover {
-    background-color: black
+body {
+    background-color: black;
 }
+
+.name-hover:hover {
+    background-color: yellow
+}
+
+h2{
+    color: white;
+    font-size: 405%;
+}
+
 h3{
-    color: blue;
+    color: rgb(0, 195, 255);
+    font-size: 20px;
+    font-variant-east-asian: traditional;
+
+}
+
+h4{
+    color: white;
+    font-size: 15px;
+    
 }
 
 p{
-    color: rgb(226, 43, 83);
+    color: rgb(0, 0, 0);
+    
     background-color: rgb(135, 236, 236);
+    outline: white;
+    outline: 2px solid rgb(221, 158, 158);
+    width: auto;
+    margin:auto;
+    font-size: 25px;
 }
 
-p{
-    outline: 1px solid rgb(221, 158, 158);
-    width: 50%;
+li{
+    color: white;
+    font-size: 26px;
 }
+
+
+
+
+
 
 #HeyLadies{
     color: rgb(15, 92, 66);
 }
 
+
+
+
+
+
 .recordList{
-    text-decoration: overline;
+    color:white;
+    text-decoration-color: white;
+    text-emphasis-color: white;
+    font-size: 20px;
+
 }
 
 .moveme {
     width: 100px;
-    height: 100px;
+    height: auto;
     background-color: black;
     position: fixed;
-    top: 0px;
+    bottom: 0px;
     right: 0px;
 }
 
@@ -40,22 +79,38 @@ p{
     text-transform: capitalize;
 }
 
-p{font-size: 14px;}
-h3{font-size: 14px;}
 
-div{
-    width: 100% 
+
+.center {
+    margin: auto;
+    width: auto;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+  }
+
+
+
+.navigation {
+    font-size: 24px;
+    margin: auto;
+    width: auto;
+    text-align: center;
 }
+
 
 
 .table {
    background-color: rgb(232, 247, 96);
+   margin: auto;
+    width: auto;
+    text-align: center;
 }
 
 
 form{
-    padding: 15px;
-    width: 20%;
+    
+    padding: 15px; 
     background-color: rgb(204, 201, 201);
     font-style: italic;
     border-style: solid;
