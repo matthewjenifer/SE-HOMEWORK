@@ -6,6 +6,12 @@ body {
     background-color: yellow
 }
 
+.album-hover:hover {
+    background-color: green; rgb(71, 160, 138)
+    max-width:auto;
+
+}
+
 h2{
     color: white;
     font-size: 405%;
@@ -14,26 +20,34 @@ h2{
 h3{
     color: rgb(0, 195, 255);
     font-size: 20px;
-    font-variant-east-asian: traditional;
 
 }
 
 h4{
     color: white;
     font-size: 15px;
-    
+
+}
+
+
+h5{
+    color: rgb(189, 44, 44);
+    font-size:17px;
+
 }
 
 p{
     color: rgb(0, 0, 0);
     
-    background-color: rgb(135, 236, 236);
-    outline: white;
-    outline: 2px solid rgb(221, 158, 158);
+    background-color: rgb(255, 255, 255);
+    outline: rgb(219, 49, 163);
+    outline: 2px solid rgb(137, 235, 226);
     width: auto;
     margin:auto;
     font-size: 25px;
 }
+
+
 
 li{
     color: white;
@@ -46,7 +60,7 @@ li{
 
 
 #HeyLadies{
-    color: rgb(15, 92, 66);
+    color: rgb(173, 35, 132);
 }
 
 
@@ -103,7 +117,7 @@ li{
 .table {
    background-color: rgb(232, 247, 96);
    margin: auto;
-    width: auto;
+    width: 700;
     text-align: center;
 }
 
