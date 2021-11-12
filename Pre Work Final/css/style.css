@@ -8,6 +8,11 @@ body {
     background-color: yellow
 }--*/
 
+#GetFunky {
+    width: 600px;
+    margin: 0 auto;
+}
+
 .album-hover:hover {
     background-color: green; rgb(71, 160, 138)
     max-width:auto;
@@ -16,11 +21,11 @@ body {
 
 h2{
     color: white;
-    font-size: 405%;
+    font-size: 375%;
 }
 
 h3{
-    color: rgb(0, 195, 255);
+    color: white;
     font-size: 17px;
 
 }
@@ -48,7 +53,7 @@ h6{
 p{
     color: rgb(0, 0, 0);
     
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(198, 238, 188);
     outline: rgb(255, 255, 255);
     outline: 2px solid rgb(137, 235, 226);
     width: auto;
@@ -86,7 +91,9 @@ li{
 
 
 .recordList{
-    color:rgb(255, 252, 102);
+    width: 600px;
+    margin: 0 auto;
+    color:rgb(0, 195, 255);
     text-decoration-color: rgb(252, 255, 58);
     text-emphasis-color: rgb(241, 206, 8);
     font-size: 20px;
@@ -110,7 +117,41 @@ li{
    
 }
 
+.moveme3 {
+    width: 150px;
+    height: auto;
+    position: absolute;
+    bottom:-250%;
+    right: 995px;
+   
+}
 
+.moveme4 {
+    width: 150px;
+    height: auto;
+    position: absolute;
+    bottom:-290%;
+    right: 995px;
+   
+}
+
+.moveme5 {
+    width: 150px;
+    height: auto;
+    position: absolute;
+    bottom:-250%;
+    right: 100px;
+   
+}
+
+.moveme6 {
+    width: 150px;
+    height: auto;
+    position: absolute;
+    bottom:-290%;
+    right: 100px;
+   
+}
 
 .hover:hover {
     background-color: blueviolet;
@@ -186,3 +227,4 @@ span{
     font-size: 70pt;
     font-family: arial;
 }
+
