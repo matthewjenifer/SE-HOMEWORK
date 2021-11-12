@@ -19,13 +19,13 @@ h2{
 
 h3{
     color: rgb(0, 195, 255);
-    font-size: 20px;
+    font-size: 17px;
 
 }
 
 h4{
-    color: white;
-    font-size: 12px;
+    color: rgb(253, 63, 63);
+    font-size: 14px;
 
 }
 
@@ -72,13 +72,21 @@ li{
 
 
 
+.p3 {
+    font-family: "Papyrus", monospace;
+    font-size: 58px;
+  }
 
+
+.switchup{
+    text-decoration-color: tomato;
+}
 
 
 .recordList{
-    color:white;
-    text-decoration-color: white;
-    text-emphasis-color: white;
+    color:rgb(255, 252, 102);
+    text-decoration-color: rgb(252, 255, 58);
+    text-emphasis-color: rgb(241, 206, 8);
     font-size: 20px;
 
 }
