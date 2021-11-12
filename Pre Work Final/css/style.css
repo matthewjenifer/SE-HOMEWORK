@@ -2,9 +2,9 @@ body {
     background-color: black;
 }
 
-.name-hover:hover {
+<!-- .name-hover:hover 
     background-color: yellow
-}
+-->
 
 .album-hover:hover {
     background-color: green; rgb(71, 160, 138)
