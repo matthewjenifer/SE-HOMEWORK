@@ -2,9 +2,9 @@ body {
     background-color: black;
 }
 
-<!-- .name-hover:hover 
+/*--.name-hover:hover {
     background-color: yellow
--->
+}--*/
 
 .album-hover:hover {
     background-color: green; rgb(71, 160, 138)
@@ -25,7 +25,7 @@ h3{
 
 h4{
     color: white;
-    font-size: 15px;
+    font-size: 12px;
 
 }
 
@@ -36,11 +36,18 @@ h5{
 
 }
 
+
+h6{
+    color: white;
+    font-size: 21px;
+
+}
+
 p{
     color: rgb(0, 0, 0);
     
     background-color: rgb(255, 255, 255);
-    outline: rgb(219, 49, 163);
+    outline: rgb(255, 255, 255);
     outline: 2px solid rgb(137, 235, 226);
     width: auto;
     margin:auto;
@@ -145,5 +152,3 @@ input[type=text]:focus {
     width: 100%;
     transition: 2s;
 }
-
-<!-- im replacing this -->
