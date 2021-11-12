@@ -42,6 +42,11 @@ div{
 
 div{background-color: rgb(255, 187, 0); max-width: ;}
 
+/* div{background-color: rgb(255, 187, 0); width: 50%;} */
+/*  This is my change*/
+.table {
+   background-color: purple;
+}
 
 
 form{
